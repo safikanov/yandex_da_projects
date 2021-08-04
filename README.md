@@ -3,7 +3,7 @@
 
 Контакты:
 - ruslan-s_@mail.ru
-- telegram: @safikanooov
+- telegram: https://t.me/safikanooov
 
 ### Список проектов:
 
